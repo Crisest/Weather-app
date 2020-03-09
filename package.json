@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app in Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crisest/Weather-app.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Yorguin M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crisest/Weather-app/issues"
+  },
+  "homepage": "https://github.com/Crisest/Weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
